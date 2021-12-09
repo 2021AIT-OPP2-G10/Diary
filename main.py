@@ -9,8 +9,6 @@ diaries = [
     FukiDiary(),
     NisiDiary(),
 
-
-
 ]
 
 for d in diaries:
