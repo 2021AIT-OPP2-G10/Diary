@@ -4,7 +4,8 @@ from diaries.FukiDiary import FukiDiary
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
     DiarySample(),
-    FukiDiary()
+    FukiDiary(),
+    NisiDiary(),
 
 ]
 
