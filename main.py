@@ -6,7 +6,9 @@ from diaries.FukiDiary import FukiDiary
 diaries = [
     DiarySample(),
     HihumikanDiary(),
-    FukiDiary()
+    FukiDiary(),
+    NisiDiary(),
+
 
 
 ]
